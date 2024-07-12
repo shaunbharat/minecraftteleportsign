@@ -1,0 +1,8 @@
+name: MinecraftTeleportSign
+version: '${project.version}'
+main: io.github.shaunbharat.minecraftteleportsign.MinecraftTeleportSign
+api-version: '1.20'
+load: STARTUP
+authors: [Shaun Bharat]
+description: A Minecraft server plugin (Paper 1.20.4) that teleports a player to the coordinates on a sign that is right-clicked.
+website: https://github.com/shaunbharat/minecraftteleportsign
